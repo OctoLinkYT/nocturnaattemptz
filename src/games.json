@@ -14,6 +14,13 @@
     "file": "https://mathlover1.github.io/msgweb-assets/2048/index.html"
   },
   {
+    "id": "Wholeworldcoding Games",
+    "title": "Wholeworldcoding Games",
+    "image": "/games/2048.png",
+    "description": "Wholeworldcoding's extra games! Enjoy more gameplay and adventures!",
+    "file": "https://games.wholeworldcoding.com/"
+  },
+  {
     "id": "among-us",
     "title": "Among Us",
     "image": "/games/red.png",
